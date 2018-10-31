@@ -10,6 +10,10 @@
 ### Directions: run this program in Weindows PowerShell ISE so that it 
 ### launches the video ontop of what ever you are doing on the computer. 
 
+# Changes this path to the path of the program 
+cd "C:\Users\steph\Documents\GitHub\powershell-halloween-scare\"
+
+# This means sleep for 5 seconds. Change this to 1800 for 30 mins and 2700 for 45 minutes
 sleep 5
 
 #Start-Process 'C:\Program Files (x86)\Windows Media Player\wmplayer.exe'
